@@ -7,7 +7,7 @@ function Cyl() {
   let tex = useTexture("images/images.png");
   tex.needsUpdate = true;
   let cyl = useRef(null);
-  useFrame((state, ) => {
+  useFrame((state, delta) => {
     cyl.current.rotation.y += delta;
   });
   return (
