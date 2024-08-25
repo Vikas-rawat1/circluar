@@ -24,5 +24,4 @@ function Cyl() {
     </>
   );
 }
-
 export default Cyl;
