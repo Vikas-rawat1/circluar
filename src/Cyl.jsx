@@ -5,7 +5,7 @@ import * as THREE from "three";
 
 function Cyl() {
   let tex = useTexture("images/images.png");
-  . = true;
+  tex. = true;
   let cyl = useRef(null);
   useFrame((state, delta) => {
     cyl.current.rotation.y += delta;
