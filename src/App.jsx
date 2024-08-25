@@ -11,7 +11,6 @@ function App() {
       <OrbitControls />
       <ambientLight />
       <Cyl />
-
       <EffectComposer>
         <Bloom
           mipmapBlur
