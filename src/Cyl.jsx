@@ -4,7 +4,7 @@ import React, { useRef } from "react";
 import * as THREE from "three";
 
 function Cyl() {
-  let tex = useTexture("images/images.png");
+  let  = useTexture("images/images.png");
   tex.needsUpdate = true;
   let cyl = useRef(null);
   useFrame((state, delta) => {
