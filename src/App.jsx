@@ -23,7 +23,7 @@ function App() {
         <ToneMapping adaptive/>
       </EffectComposer>
     </Canvas>
-    <div className="text-white">WEB</div>
+  
     </>
 
   );
