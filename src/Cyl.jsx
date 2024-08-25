@@ -12,7 +12,7 @@ function Cyl() {
   });
   return (
     <>
-      <group  rotation={[0, 1.4, 0.5]}>
+      <group rotation={[0, 1.4, 0.5]}>
         {/* x,y,z  */}
         <mesh ref={cyl}>
           {/* <boxGeometry args={[1, 1, 1]} /> */}
