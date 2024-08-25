@@ -7,7 +7,6 @@ import { Bloom, EffectComposer, ToneMapping } from "@react-three/postprocessing"
 function App() {
   return (
     <>
-
     <Canvas flat camera={{ fov: 40 }}>
       <OrbitControls />
       <ambientLight />
