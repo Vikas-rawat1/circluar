@@ -9,7 +9,7 @@ function App() {
     <>
 
     <Canvas flat camera={{ fov: 40 }}>
-      {/* <OrbitControls /> */}
+      <OrbitControls />
       <ambientLight />
       <Cyl />
 
