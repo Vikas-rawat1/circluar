@@ -21,7 +21,7 @@ function Cyl() {
           <meshStandardMaterial map={tex} side={THREE.DoubleSide} />
         </mesh>
       </group>
-    </>sdf
+    </>sdfsd
   );
 }
 export default Cyl;
