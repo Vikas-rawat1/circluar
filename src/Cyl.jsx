@@ -22,6 +22,6 @@ function Cyl() {
         </mesh>
       </group>sdf
     </>sdfsddsf
-  );dsf
+  );
 }
 export default Cyl;
