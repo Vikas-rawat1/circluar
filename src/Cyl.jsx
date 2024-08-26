@@ -17,7 +17,6 @@ function Cyl() {
         <mesh ref={cyl}>
           {/* <boxGeometry args={[1, 1, 1]} /> */}
           {/* <cylinderGeometry args={[radiusTop : Float, radiusBottom : Float, height : Float, radialSegments : Integer, heightSegments : Integer, openEnded : Boolean,]} /> */}
-          <cylinderGeometry args={[1, 1, 1, 60, 60, true]} />
           <meshStandardMaterial map={tex} side={THREE.DoubleSide} />
         </mesh>
       </group>
