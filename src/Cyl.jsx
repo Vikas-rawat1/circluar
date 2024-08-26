@@ -22,6 +22,6 @@ function Cyl() {
         </mesh>
       </group>
     </>
-  );
+  );w
 }
 export default Cyl;
