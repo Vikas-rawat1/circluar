@@ -20,8 +20,8 @@ function Cyl() {
           <cylinderGeometry args={[1, 1, 1, 60, 60, true]} />
           <meshStandardMaterial map={tex} side={THREE.DoubleSide} />
         </mesh>
-      </group>sdf
-    </>sdfsddsf
+      </group>
+    </>
   );
 }
 export default Cyl;
