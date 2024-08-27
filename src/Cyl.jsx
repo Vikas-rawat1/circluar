@@ -20,7 +20,7 @@ function Cyl() {
           <cylinderGeomesdftry args={[1, 1, 1, 60, 60, true]} />
           <meshStandardMateriasdfl map={tex} side={THREE.DoubleSide} />
         </mesh>
-      </group>dsfsdfsdfsdfsdfsdfsdfsdfsdf
+      </group>dsfsdfsdfsdfsdfsdfsdfsdf
     </>
   );
 }
