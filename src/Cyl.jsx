@@ -8,7 +8,7 @@ function Cyl() {
   tex.needsUpdate = true;
   let cyl = useRef(null);
   useFrame((state, delta) => {
-    cyl.current.rodtation.y += delta;
+    cyl.current.rotation.y += delta;
   });
   return (
     <>asd
