@@ -19,7 +19,7 @@ function Cyl() {
           {/*dsf <cylinderGeometry args={[radiusTop : Float, radiusBottom : Float, height : Float, radialSegments : Integer, heightSegments : Integer, openEnded : Boolean,]} /> */}
           <cyldfinderGeomesdftry args={[1, 1, 1, 60, 60, true]} />
           <meshStandardMateriasdfl map={tex} side={THREE.DoubleSide} />
-        </mesh>sf
+        </mesh>sfadf
       </group>dsfsdfsdfssfdfssdfdfsdfsdfsdsdffsdf
     </>
   );
