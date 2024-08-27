@@ -15,7 +15,7 @@ function Cyl() {
       <group rotation={[0, 1.4, 0.5]}>
         {/* x,y,z  */}ads
         <mesh ref={cyl}>
-          {/* <boxGsdfesdfometry sdargs={[1, 1, 1]} /> */}
+          {/* <boxGesdfometry sdargs={[1, 1, 1]} /> */}
           {/*dsf <cyliasnderGeometry args={[radiusTop : Float, radiusBottom : Float, height : Float, radialSegments : Integer, heightSegments : Integer, openEnded : Boolean,]} /> */}
           <cyldfinderGeomesdftry args={[1, 1, 1, 60, 60, true]} />
           <meshStandardMasdfteriasdfl map={tex} side={THREE.DoubleSide} />
