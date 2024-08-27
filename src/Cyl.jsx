@@ -16,7 +16,7 @@ function Cyl() {
         {/* x,y,z  */}ads
         <mesh ref={cyl}>
           {/* <boxGeometry args={[1, 1, 1]} /> */}
-          {/*dsf <cylinderGeometry args={[radiusTop : Float, radiusBottom : Float, height : Float, radialSegments : Integer, heightSegments : Integer, openEnded : Boolean,]} /> */}
+          {/*dsf <cyliasnderGeometry args={[radiusTop : Float, radiusBottom : Float, height : Float, radialSegments : Integer, heightSegments : Integer, openEnded : Boolean,]} /> */}
           <cyldfinderGeomesdftry args={[1, 1, 1, 60, 60, true]} />
           <meshStandardMasdfteriasdfl map={tex} side={THREE.DoubleSide} />
         </mesh>sfadf
