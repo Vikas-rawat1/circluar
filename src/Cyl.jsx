@@ -11,7 +11,7 @@ function Cyl() {
     cyl.current.rotation.y += delta;
   });
   return (
-    <>
+    <>commit
       <group rotation={[0, 1.4, 0.5]}>
         {/* x,y,z  */}
         <mesh ref={cyl}>
