@@ -13,7 +13,7 @@ function Cyl() {
   return (
     <>
       <group rotation={[0, 1.4, 0.5]}>
-        {/* x,y,z  */}
+        {/* x,y,z  */}ads
         <mesh ref={cyl}>
           {/* <boxGeometry args={[1, 1, 1]} /> */}
           {/* <cylinderGeometry args={[radiusTop : Float, radiusBottom : Float, height : Float, radialSegments : Integer, heightSegments : Integer, openEnded : Boolean,]} /> */}
