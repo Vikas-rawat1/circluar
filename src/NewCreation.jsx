@@ -6,6 +6,7 @@ function NewCreation() {
     <>
       <mesh>
         <PlaneGeometry/>
+        <
       </mesh>
     </>
   )
