@@ -5,7 +5,7 @@ function NewCreation() {
   return (
     <>
       <mesh>
-        <PlaneGeometry/>
+        <PlaneGeometry
       </mesh>
     </>
   )
