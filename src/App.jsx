@@ -12,7 +12,7 @@ import NewCreation from "./NewCreation";
 function App() {
   return (
     <>
-      <Canvas flat camera={{ fov: 40 }}>
+      <Canvas flat camera={{ fov: 90 }}>
         <OrbitControls />
         <ambientLight />
         {/* <Cyl /> */}
@@ -20,7 +20,7 @@ function App() {
         <EffectComposer>
           <Bloom
             mipmapBlur
-            intensity={7.0}
+            intensity={17.0}
             luminanceThreshold={0}
             luminanceSmoothing={0}
           />
