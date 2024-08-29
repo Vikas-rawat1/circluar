@@ -6,7 +6,7 @@ function NewCreation() {
     <>
       <mesh>
         <PlaneGeometry/>
-        <meshBasicMater
+        <meshBasic
       </mesh>
     </>
   )
