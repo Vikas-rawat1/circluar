@@ -4,10 +4,10 @@ import { PlaneGeometry } from 'three'
 function NewCreation() {
   return (
     <>
-      <mes>
+      <mesh>
         <PlaneGeometry/>
         <meshBasicMaterial/>
-      </mes
+      </mesh>
     </>
   )
 }
