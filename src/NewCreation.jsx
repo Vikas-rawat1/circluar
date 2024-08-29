@@ -7,7 +7,7 @@ function NewCreation() {
       <mesh>
         <PlaneGeometry/>
         <meshBasicMaterial/>
-      </mesh>
+      </mesh
     </>
   )
 }
