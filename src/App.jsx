@@ -8,6 +8,7 @@ import {
   EffectComposer,
   ToneMapping,
 } from "@react-three/postprocessing";
+import NewCreation from "./NewCreation";
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
         <OrbitControls />
         <ambientLight />
         {/* <Cyl /> */}
+        <NewCreation/>
         <EffectComposer>
           <Bloom
             mipmapBlur
