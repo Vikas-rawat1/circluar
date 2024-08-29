@@ -4,7 +4,7 @@ function NewCreation() {
   return (
     <>
       <mesh>
-        <Plan
+        <
       </mesh>
     </>
   )
