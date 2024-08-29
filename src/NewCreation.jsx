@@ -2,9 +2,7 @@ import React from 'react'
 
 function NewCreation() {
   return (
-    <div>
-      
-    </div>
+    <div></div>
   )
 }
 
