@@ -12,7 +12,7 @@ import NewCreation from "./NewCreation";
 function App() {
   return ( 
     <>   
-      <Canvas flat camera={{ fov: 90 }}>
+      <C anvas flat camera={{ fov: 90 }}>
         <OrbitControls />
         <ambientLight />
         {/* <Cyl /> */}
@@ -26,7 +26,7 @@ function App() {
           />
           <ToneMapping adaptive />
         </EffectComposer>
-      </Canvas>
+      </C>
     </>
   );
 }
