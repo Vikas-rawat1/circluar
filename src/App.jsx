@@ -10,7 +10,7 @@ import {
 } from "@react-three/postprocessing";
 import NewCreation from "./NewCreation";
 function App() {
-  return (   
+  return (  
     <>          
       <Canvas flat camera={{ fov: 90 }}>
         <OrbitControls />
