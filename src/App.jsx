@@ -26,7 +26,7 @@
           />
           <ToneMapping adaptive />
         </EffectComposer>
-      </Canvas>
+      {/* </Canvas> */}
     </>
   // );
 // }
