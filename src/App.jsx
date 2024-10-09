@@ -18,7 +18,7 @@
         {/* <Cyl /> */}
         <NewCreation/>
         <EffectComposer>
-          <Bloom
+          {/* <Bloom */}
             mipmapBlur
             intensity={17.0}
             luminanceThreshold={0}
