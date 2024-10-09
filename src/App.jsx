@@ -29,6 +29,6 @@
       </Canvas>
     </>
   // );
-}
+// }
 
 export default App;
