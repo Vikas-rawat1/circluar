@@ -5,7 +5,7 @@ import { OrbitControls } from "@react-three/drei";
 import Cyl from "./Cyl";
 import {
   Bloom, 
-  EffectComposer, 
+  EffectComposer,
   ToneMapping, 
 } from "@react-three/postprocessing";
 import NewCreation from "./NewCreation";
