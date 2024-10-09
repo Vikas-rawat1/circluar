@@ -23,7 +23,7 @@
             intensity={17.0}
             luminanceThreshold={0}
             luminanceSmoothing={0}
-          />
+          {/* /> */}
           {/* <ToneMapping adaptive /> */}
         </EffectComposer>
       {/* </Canvas> */}
