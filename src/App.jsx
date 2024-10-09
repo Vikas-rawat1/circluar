@@ -9,7 +9,7 @@
   // ToneMapping,
 // } from "@react-three/postprocessing";
 // import NewCreation from "./NewCreation";
-function App() {
+// function App() {
   return (
     <>
       <Canvas flat camera={{ fov: 90 }}>
