@@ -6,7 +6,7 @@ import { Text } from "@react-three/drei";
   // return (
     <>
       <group>
-        <mesh position={[0, -0.1, 0]}>
+        {/* <mesh position={[0, -0.1, 0]}> */}
           {/* <boxGeometry args={[1, 0.1, 1]} /> */}
           {/* <meshStandardMaterial color="hotpink" /> */}
         {/* </mesh> */}
