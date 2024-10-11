@@ -8,7 +8,7 @@ import { Text } from "@react-three/drei";
       <group>
         <mesh position={[0, -0.1, 0]}>
           <boxGeometry args={[1, 0.1, 1]} />
-          <meshStandardMaterial color="hotpink" />
+          {/* <meshStandardMaterial color="hotpink" /> */}
         {/* </mesh> */}
         <Text
           position={[0, 1, 0]}
