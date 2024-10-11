@@ -28,7 +28,7 @@ function App() {
         </EffectComposer>
       </Canvas>
     </>
-  );
+  // );
 // }
 
 // export default App;
