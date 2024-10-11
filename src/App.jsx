@@ -26,7 +26,7 @@ function App() {
           />
           <ToneMapping adaptive />
         </EffectComposer>
-      {/* </Canvas> */}
+      </Canvas>
     </>
   // );
 // }
