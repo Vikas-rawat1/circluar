@@ -4,7 +4,7 @@
 // import { OrbitControls } from "@react-three/drei";
 // import Cyl from "./Cyl";
 // import {
-  // Bloom,
+  Bloom,
   // EffectComposer,
   // ToneMapping,
 // } from "@react-three/postprocessing";
