@@ -3,7 +3,7 @@ import React from "react";
 import "./style.css";
 import { OrbitControls } from "@react-three/drei";
 import Cyl from "./Cyl";
-import {
+// import {
   Bloom,
   EffectComposer,
   ToneMapping,
