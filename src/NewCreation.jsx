@@ -9,7 +9,7 @@ import { Text } from "@react-three/drei";
         <mesh position={[0, -0.1, 0]}>
           <boxGeometry args={[1, 0.1, 1]} />
           <meshStandardMaterial color="hotpink" />
-        {/* </mesh> */}
+        </mesh>
         <Text
           position={[0, 1, 0]}
           fontSize={0.3}
