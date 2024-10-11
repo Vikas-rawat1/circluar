@@ -8,7 +8,7 @@ import {
   EffectComposer,
   ToneMapping,
 } from "@react-three/postprocessing";
-// import NewCreation from "./NewCreation";
+import NewCreation from "./NewCreation";
 function App() {
   return (
     <>
