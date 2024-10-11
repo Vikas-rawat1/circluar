@@ -6,7 +6,7 @@
 // import {
   Bloom,
   EffectComposer,
-  ToneMapping,
+  // ToneMapping,
 // } from "@react-three/postprocessing";
 import NewCreation from "./NewCreation";
 function App() {
