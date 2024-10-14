@@ -1,6 +1,6 @@
 // import * as THREE from "three";
 
-// import { Text } from "@react-three/drei";
+import { Text } from "@react-three/drei";
 
 function NewCreation() {
   return (
