@@ -15,7 +15,7 @@ function App() {
       <Canvas flat camera={{ fov: 90 }}>
         <OrbitControls />
         <ambientLight />
-        {/* <Cyl /> */}
+        <Cyl />
         <NewCreation />
         <EffectComposer>
           <Bloom
