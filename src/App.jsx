@@ -24,7 +24,7 @@ function App() {
             luminanceThreshold={0}
             luminanceSmoothing={0}
           />
-          <ToneMapping adaptive />
+          {/* <ToneMapping adaptive /> */}
         </EffectComposer>
       </Canvas>
     </>
