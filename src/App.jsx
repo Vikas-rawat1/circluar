@@ -12,7 +12,7 @@ import NewCreation from "./NewCreation";
 function App() {
   return (
     <>
-      {/* <Canvas flat camera={{ fov: 90 }}> */}
+      <Canvas flat camera={{ fov: 90 }}>
         <OrbitControls />
         <ambientLight />
         {/* <Cyl /> */}
