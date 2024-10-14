@@ -2,7 +2,7 @@
 
 import { Text } from "@react-three/drei";
 
-// function NewCreation() {
+function NewCreation() {
   return (
     <>
       <group>
