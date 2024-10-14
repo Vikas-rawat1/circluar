@@ -20,7 +20,7 @@ function App() {
         <EffectComposer>
           <Bloom
             mipmapBlur
-            intensity={17.0}
+            // intensity={17.0}
             luminanceThreshold={0}
             luminanceSmoothing={0}
           />
